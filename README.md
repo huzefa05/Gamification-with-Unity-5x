@@ -1,5 +1,5 @@
 #Gamification with Unity 5.x
-This is the code repository for [Gamification with Unity 5.x](https://www.packtpub.com/game-development/gamification-unity-5x?utm_source=github&utm_medium=repository&utm_campaign=9781786463487), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Gamification with Unity 5.x](https://www.packtpub.com/game-development/gamification-unity-5x?utm_source=github&utm_medium=repository&utm_campaign=9781786463487), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Are you looking at implementing gamification techniques for your business and wondering where to get a complete rundown of all the tricks and techniques? Well, you have come to the right place!
 ##Instructions and Navigations
